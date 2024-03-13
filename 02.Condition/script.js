@@ -10,3 +10,4 @@ else if (userName ==='Rufet' || userName === 'Azerin' || isAdmin === true) {cons
     
 }
 else console.log('not found');
+let a = 1
